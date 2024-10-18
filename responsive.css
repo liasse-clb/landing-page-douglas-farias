@@ -175,6 +175,8 @@ o primeiro titulo e primeiro paragráfo*/
     .absolute {
         max-width: 19em;
         margin-top: 8em;
+        border-bottom-left-radius: 100%;
+        border-bottom-right-radius: 100%;
     }
 
     .first-article .btn{
