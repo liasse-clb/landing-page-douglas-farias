@@ -1,10 +1,9 @@
 /* Estilos responsivos para manter o site adaptável a todos os tamanhos de tela*/
-img {
-    max-width: 100%;
-    height: auto;
-    display: block; /* Evita espaços em branco ao redor das imagens */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
 @media (max-width: 1280px) {
     .absolute {
         max-width: 22em;
