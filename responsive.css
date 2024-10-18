@@ -211,7 +211,9 @@ o primeiro titulo e primeiro paragráfo*/
     .first-article .btn {
         left: -3em;
     }
-
+    .text-anton1 .text-poppins1{
+        position: static;
+    }
     .text-anton4 {
         font-size: 1.4em;
     }
